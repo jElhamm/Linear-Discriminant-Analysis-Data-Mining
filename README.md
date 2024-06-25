@@ -1,18 +1,18 @@
 # Linear Discriminant Analysis (LDA) Data Mining
 
-   This project demonstrates the implementation of LDA using various popular libraries such as (NumPy)[https://numpy.org/], (SciPy)[https://scipy.org/], (PyTorch)[https://pytorch.org/], and (TensorFlow)[https://www.tensorflow.org/].
+   This project demonstrates the implementation of LDA using various popular libraries such as [NumPy](https://numpy.org/], [SciPy](https://scipy.org/], [PyTorch](https://pytorch.org/], and [TensorFlow](https://www.tensorflow.org/).
    Each implementation is contained within its own Jupyter Notebook, providing a comprehensive and detailed guide on how to perform LDA using these different tools.
 
 ## Repository Structure
 
-   - (Implementation of LDA using NumPy)[LDA_Implement_With_NumPy.ipynb]
-   - (Implementation of LDA using SciPy)[LDA_Implement_With_SciPy.ipynb]
-   - (Implementation of LDA using PyTorch)[LDA_Implement_With_PyTorch.ipynb]
-   - (Implementation of LDA using TensorFlow)[LDA_Implement_With_TensorFlow.ipynb]
+   - [Implementation of LDA using NumPy](LDA_Implement_With_NumPy.ipynb)
+   - [Implementation of LDA using SciPy](LDA_Implement_With_SciPy.ipynb)
+   - [Implementation of LDA using PyTorch](LDA_Implement_With_PyTorch.ipynb)
+   - [Implementation of LDA using TensorFlow](LDA_Implement_With_TensorFlow.ipynb)
 
 ## Dataset
 
-   The dataset used in this project is the (`heart_statlog_cleveland_hungary_final.csv`)[heart_statlog_cleveland_hungary_final.csv], which combines heart disease data from various sources.
+   The dataset used in this project is the [`heart_statlog_cleveland_hungary_final.csv`](heart_statlog_cleveland_hungary_final.csv), which combines heart disease data from various sources.
    This dataset includes numerous attributes related to heart disease, and it is a common benchmark for evaluating classification algorithms.
 
 ## Requirements

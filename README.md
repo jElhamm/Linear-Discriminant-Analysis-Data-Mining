@@ -1,6 +1,6 @@
 # Linear Discriminant Analysis (LDA) Data Mining
 
-   This project demonstrates the implementation of LDA using various popular libraries such as [NumPy][https://numpy.org/], [SciPy][https://scipy.org/], [PyTorch][https://pytorch.org/], and [TensorFlow](https://www.tensorflow.org/).
+   This project demonstrates the implementation of LDA using various popular libraries such as [NumPy](https://numpy.org/), [SciPy](https://scipy.org/), [PyTorch](https://pytorch.org/), and [TensorFlow](https://www.tensorflow.org/).
    Each implementation is contained within its own [Jupyter Notebook](https://jupyter.org/), providing a comprehensive and detailed guide on how to perform LDA using these different tools.
 
 ## Repository Structure
